@@ -1,4 +1,4 @@
-<mxfile modified="2023-12-11T21:51:18.100Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Pid_TXBgVTsoexSXq03P" version="22.1.7" type="github">
+<mxfile modified="2023-12-11T21:54:33.865Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e6cIQOE68HjgD_NrSz0h" version="22.1.7" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2219" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,9 +23,6 @@
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-30" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="-30" y="98" width="40" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="Subtitle text&lt;br style=&quot;font-size: 16px&quot;&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16" parent="1" vertex="1">
-          <mxGeometry x="56.5" y="114.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-49" value="Label" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-195" y="363" width="50" height="20" as="geometry" />
@@ -196,6 +193,30 @@
         </mxCell>
         <mxCell id="NJFtMff7BT7b__9nkDue-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="745.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-23" value="[MongoDB Cluster - &lt;br&gt;Staging]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16" vertex="1" parent="1">
+          <mxGeometry x="205" y="740" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-24" value="[MongoDB Cluster - &lt;br&gt; Production]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16" vertex="1" parent="1">
+          <mxGeometry x="545" y="755.5" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="849.5" y="293" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="849.5" y="427" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="849.5" y="598.5" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-28" value="[Container Registry]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="303" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-29" value="[Prometheus/Grafana&lt;br&gt;&amp;nbsp;Cluster]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16" vertex="1" parent="1">
+          <mxGeometry x="860.5" y="608.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFtMff7BT7b__9nkDue-30" value="[CI/CD (GitHub Actions)]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16" vertex="1" parent="1">
+          <mxGeometry x="850.5" y="440" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
