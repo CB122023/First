@@ -1,4 +1,4 @@
-<mxfile modified="2023-12-10T19:08:10.942Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_RjIULbYvFKggccJza78" version="22.1.7" type="github">
+<mxfile modified="2023-12-11T20:31:24.713Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zlc4HmGnxRTLos9jj4tL" version="22.1.7" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2219" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -145,9 +145,6 @@
         </mxCell>
         <mxCell id="vCko7jj2vJrHwMg7Z86O-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Protective Layer&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-50" y="303" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vCko7jj2vJrHwMg7Z86O-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/FloatingIP.svg;" parent="1" vertex="1">
-          <mxGeometry x="5.75" y="690" width="48.5" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="vCko7jj2vJrHwMg7Z86O-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Floating IPs&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-34.25" y="670" width="140" height="40" as="geometry" />
